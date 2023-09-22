@@ -1,1 +1,1 @@
-# Fetching-Bulk-Data
+The purpose of this Python script is to retrieve cryptocurrency data from the Binance exchange using their API from the year 2017 to September 2023. The retrieved data is stored in MySQL for the purpose of further analysis. In MySQL,  tables aws created based on the response from the API. Python and SQL connections were used to transfer the retrieved data into those tables. 
